@@ -13,4 +13,8 @@ Software source code previously released under an open source license and then m
 
 [Color](http://ngageoint.github.io/color-spm/) is an iOS Swift (UIKit and above) library providing color representation with support for hex, RBG, arithmetic RBG, HSL, and integer colors.
 
+## This document is still being updated as it this SPM is being developed. Thank you for being patient with us! ##
+
 ### Usage ###
+
+### Build ###
