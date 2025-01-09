@@ -1,5 +1,7 @@
 # Color Swift Package Manager
 
+## This document is still being updated as this SPM is being developed. Thank you for being patient with us! ##
+
 #### Color Lib ####
 
 The Color Library was developed at the [National Geospatial-Intelligence Agency (NGA)](http://www.nga.mil/) in collaboration with [Omni Federal](https://www.omnifederal.com/). The government has "unlimited rights" and is releasing this software to increase the impact of government investments by providing developers with the opportunity to take things in new directions. The software use, modification, and distribution rights are stipulated within the [MIT license](http://choosealicense.com/licenses/mit/).
@@ -12,8 +14,6 @@ Software source code previously released under an open source license and then m
 ### About ###
 
 [Color](http://ngageoint.github.io/color-spm/) is an iOS Swift (UIKit and above) library providing color representation with support for hex, RBG, arithmetic RBG, HSL, and integer colors.
-
-## This document is still being updated as this SPM is being developed. Thank you for being patient with us! ##
 
 ### Usage ###
 
